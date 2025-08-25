@@ -1,0 +1,12 @@
+mesa==3.2.0
+sentence-transformers
+nltk
+streamlit
+plotly
+numpy
+pandas
+networkx
+torch>=1.9.0
+torchvision
+torchaudio
+pickle-mixin
